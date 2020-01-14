@@ -64,7 +64,7 @@ class Photo:
 
 
 
-path = 'C:\\Users\\jcqsg\\Desktop\\test_ai\\'
+path = '' #C:\\Users\\{username}\\...
 photos = []
 # r=root, d=directories, f = files
 for r, d, f in os.walk(path):
