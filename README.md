@@ -1,1 +1,1 @@
-## Python script to get a pie chart composed of colors percentage on a photo
+# Python script to get a pie chart representing colors percentage on a given jpg/png
